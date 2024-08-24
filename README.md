@@ -1,8 +1,20 @@
-# React + Vite
+<h1 align="center">React JS Desde Cero | Curso Gratuito</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
 
-Currently, two official plugins are available:
+## Aprende y aplica la teoría sobre un PROYECTO REAL | Hooks, Componentes, Estados, Props, DOM y mucho más
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Lo que aprendi:
+- Los conocimientos básicos de React
+- Hacer peticiones a APIS externas a través de React
+- Conocer la estructura de los proyectos de React
+- Conocer las ventajas de React
+- Crear nuevas aplicaciones
+- React Hooks
+- React Router DOM V6
+- Subir proyectos a Github
+- JSX
+- React Developer Tools
+- Ternarios React
+
+![Opera Instantánea_2024-08-24_140430_adore1968 github io](https://github.com/user-attachments/assets/f67d7ec5-d5df-49f5-b552-03ad39bda73c)
